@@ -361,7 +361,7 @@ echo $DISPLAY
 
 - 📧 E-Mail: contact@tuxhs.de
 - 🌐 Website: [tuxhs.de](https://tuxhs.de)
-- 💻 GitHub: [@tuxplayer](https://github.com/tuxplayers)
+- 💻 GitHub: [@tuxplayers](https://github.com/tuxplayers)
 
 ---
 
